@@ -1,0 +1,6 @@
+#include "stdio.h"
+int mian(void)
+{
+printf("hello, git!");
+return 0;
+}
